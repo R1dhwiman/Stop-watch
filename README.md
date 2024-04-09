@@ -18,7 +18,7 @@ To get started with the project, follow these steps:
 1.  Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/stopwatch.git
+git clone https://github.com/R1dhwiman/stopwatch.git
 
 2.  Navigate to the Project Directory:
 bash
