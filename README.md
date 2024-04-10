@@ -1,5 +1,5 @@
 # Stopwatch using HTML, CSS, and JavaScript
-HOSTED LINK :- 
+HOSTED SITE LINK :  https://r1dhwiman.github.io/Stopwatch/
 
 This project is a simple stopwatch developed using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the stopwatch.
 
